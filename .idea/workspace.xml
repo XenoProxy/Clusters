@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c988d30d-b106-4fe9-ba2b-f8940de1ba10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cH6wvbxOveu30nB3zq2m7cJMQb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Clusters" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c988d30d-b106-4fe9-ba2b-f8940de1ba10" name="Default Changelist" comment="" />
+      <created>1590173413965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590173413965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="969" height="76" key="GridCell.Tab.0.bottom" timestamp="1594054395328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="969" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594054395328" />
+    <state width="969" height="76" key="GridCell.Tab.0.center" timestamp="1594054395328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="969" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594054395328" />
+    <state width="969" height="76" key="GridCell.Tab.0.left" timestamp="1594054395328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="969" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594054395328" />
+    <state width="969" height="76" key="GridCell.Tab.0.right" timestamp="1594054395328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="969" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594054395328" />
+    <state x="0" y="32" key="new project wizard" timestamp="1593680939829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593680939829" />
+  </component>
+</project>
